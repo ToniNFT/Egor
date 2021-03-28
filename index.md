@@ -4,4 +4,4 @@
 
 ![image](/original/Egor8.png)
 ![image](/original/Egor7.png)
-![image](/128/Egor6.png)
+![image](/128/Egor4.png)
