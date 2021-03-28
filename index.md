@@ -1,6 +1,1 @@
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-![image](/original/Egor8.png) ![image](/original/Egor7.png)
-![image](/128/Egor4.png) ![image](/128/Egor3.png)
+![image](/original/Egor1.png) ![image](/original/Egor2.png) ![image](/original/Egor3.png) ![image](/original/Egor4.png) ![image](/original/Egor5.png) ![image](/original/Egor8.png) ![image](/original/Egor6.png) ![image](/original/Egor7.png)
