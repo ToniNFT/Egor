@@ -2,5 +2,4 @@
 ## This is an <h2> tag
 ###### This is an <h6> tag
 
-![Image]
-(/original/Egor8.png)
+![image](/original/Egor8.png)
